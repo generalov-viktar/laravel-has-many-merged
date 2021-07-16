@@ -1,6 +1,6 @@
 <?php
 
-namespace Korridor\LaravelHasManyMerged;
+namespace GenVik\LaravelHasManyMerged;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Collection;
