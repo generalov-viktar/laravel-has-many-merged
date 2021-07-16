@@ -14,7 +14,7 @@ This relation fully supports lazy and eager loading.
 You can install the package via composer with following command:
 
 ```bash
-composer require korridor/laravel-has-many-merged
+composer require  generalov-viktar/laravel-has-many-merged
 ```
 
 ### Requirements
