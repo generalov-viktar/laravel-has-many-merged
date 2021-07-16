@@ -1,6 +1,6 @@
 <?php
 
-namespace Korridor\LaravelHasManyMerged;
+namespace GenVik\LaravelHasManyMerged;
 
 trait HasManyMergedRelation
 {
