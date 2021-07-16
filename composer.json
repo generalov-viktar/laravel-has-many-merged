@@ -1,15 +1,8 @@
 {
-  "name": "korridor/laravel-has-many-merged",
+  "name": "generalov-viktar/laravel-has-many-merged",
   "description": "Custom relationship for Eloquent that merges/combines multiple one-to-may (hasMany) relationships",
   "keywords": ["laravel", "eloquent", "relations", "has-many"],
-  "homepage": "https://github.com/korridor/laravel-has-many-merged",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "korridor",
-      "email": "26689068+korridor@users.noreply.github.com"
-    }
-  ],
   "minimum-stability": "stable",
   "require": {
     "php": "^7.1|^8",
@@ -22,12 +15,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Korridor\\LaravelHasManyMerged\\": "src"
+      "GenVik\\LaravelHasManyMerged\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Korridor\\LaravelHasManyMerged\\Tests\\": "tests/"
+      "GenVik\\LaravelHasManyMerged\\Tests\\": "tests/"
     }
   },
   "scripts": {
